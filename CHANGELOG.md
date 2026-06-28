@@ -5,3 +5,4 @@
 - [2026-06-28T09:38:00] Establish RESTful endpoints for CRUD operations
 - [2026-06-28T09:55:00] Set up error handling middleware for backend
 - [2026-06-28T10:12:00] Initialize Vite frontend and clean boilerplate
+- [2026-06-28T10:29:00] Configure global CSS variables and theme tokens
