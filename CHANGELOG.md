@@ -13,3 +13,4 @@
 - [2026-06-28T11:54:00] Add frontend state validation for title and description
 - [2026-06-28T12:11:00] Wire up Create Task API integration
 - [2026-06-28T12:28:00] Implement Update and Delete API integrations
+- [2026-06-28T12:45:00] Add React Toastify for global user feedback
