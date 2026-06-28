@@ -2,3 +2,4 @@
 - [2026-06-28T08:47:00] Configure Mongoose schemas for task management
 - [2026-06-28T09:04:00] Implement backend controller logic for task retrieval
 - [2026-06-28T09:21:00] Add backend validation for task creation
+- [2026-06-28T09:38:00] Establish RESTful endpoints for CRUD operations
