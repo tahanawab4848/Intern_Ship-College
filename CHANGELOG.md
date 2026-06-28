@@ -1,1 +1,2 @@
 - [2026-06-28T08:30:00] Setup project infrastructure and initial routing
+- [2026-06-28T08:47:00] Configure Mongoose schemas for task management
