@@ -7,3 +7,4 @@
 - [2026-06-28T10:12:00] Initialize Vite frontend and clean boilerplate
 - [2026-06-28T10:29:00] Configure global CSS variables and theme tokens
 - [2026-06-28T10:46:00] Implement custom hook for API data fetching
+- [2026-06-28T11:03:00] Design base TaskCard component structure
