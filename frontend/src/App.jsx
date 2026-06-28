@@ -124,8 +124,8 @@ function App() {
       <main className="main-content">
         <header className="header">
           <div>
-            <h1>Task Mastery</h1>
-            <p className="text-secondary" style={{ marginTop: '8px' }}>Manage your tasks effectively.</p>
+            <h1>Tasks</h1>
+            <p className="text-secondary" style={{ marginTop: '8px' }}>Manage your tasks</p>
           </div>
           <button className="btn btn-primary" onClick={openCreateModal}>
             <Plus size={18} /> New Task

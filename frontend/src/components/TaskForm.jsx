@@ -66,7 +66,7 @@ const TaskForm = ({ onClose, onSubmit, initialData }) => {
               name="title" 
               value={formData.title} 
               onChange={handleChange} 
-              placeholder="e.g. Design homepage UI" 
+              placeholder="Task title" 
             />
             {errors.title && <span className="error-text">{errors.title}</span>}
           </div>
@@ -77,7 +77,7 @@ const TaskForm = ({ onClose, onSubmit, initialData }) => {
               name="description" 
               value={formData.description} 
               onChange={handleChange} 
-              placeholder="Add details about the task..."
+              placeholder="Description"
               rows="3"
             />
             {errors.description && <span className="error-text">{errors.description}</span>}

@@ -4,14 +4,14 @@
   --bg-primary: #ffffff; /* White */
   --bg-secondary: #ffffff; /* White */
   --text-primary: #000000; /* Black */
-  --text-secondary: #000080; /* Navy Blue */
-  --accent-color: #0000ff; /* Blue */
-  --accent-hover: #000080; /* Navy Blue */
+  --text-secondary: #1e5a39; /* Dark Sea Green */
+  --accent-color: #2e8b57; /* Sea Green */
+  --accent-hover: #1e5a39; /* Dark Sea Green */
   --danger-color: #000000; /* Black */
-  --success-color: #0000ff; /* Blue */
-  --warning-color: #000080; /* Navy Blue */
+  --success-color: #2e8b57; /* Sea Green */
+  --warning-color: #1e5a39; /* Dark Sea Green */
   --glass-bg: #ffffff; /* Solid White */
-  --glass-border: #000080; /* Solid Navy */
+  --glass-border: #1e5a39; /* Dark Sea Green */
   --glass-shadow: none;
 }
 
@@ -177,8 +177,14 @@ select option {
   display: flex;
   flex-direction: column;
   border-right: 1px solid var(--glass-border);
-  background: rgba(0, 0, 128, 0.3);
-  backdrop-filter: blur(10px);
+  background: seagreen; /* Sea Green */
+  color: #ffffff;
+}
+.sidebar .text-secondary {
+  color: #ffffff; /* Override text-secondary inside sidebar to be readable on blue */
+}
+.sidebar label, .sidebar h2, .sidebar h3 {
+  color: #ffffff;
 }
 
 .main-content {
