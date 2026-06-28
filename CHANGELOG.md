@@ -10,3 +10,4 @@
 - [2026-06-28T11:03:00] Design base TaskCard component structure
 - [2026-06-28T11:20:00] Integrate Framer Motion for card entrance animations
 - [2026-06-28T11:37:00] Implement interactive TaskForm modal
+- [2026-06-28T11:54:00] Add frontend state validation for title and description
