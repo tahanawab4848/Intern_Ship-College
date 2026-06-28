@@ -16,3 +16,4 @@
 - [2026-06-28T12:45:00] Add React Toastify for global user feedback
 - [2026-06-28T13:02:00] Construct Sidebar component for data filtering
 - [2026-06-28T13:19:00] Implement client-side state filtering for task status
+- [2026-06-28T13:36:00] Add sorting mechanisms for task priority and date
