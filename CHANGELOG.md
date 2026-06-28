@@ -1,3 +1,4 @@
 - [2026-06-28T08:30:00] Setup project infrastructure and initial routing
 - [2026-06-28T08:47:00] Configure Mongoose schemas for task management
 - [2026-06-28T09:04:00] Implement backend controller logic for task retrieval
+- [2026-06-28T09:21:00] Add backend validation for task creation
